@@ -81,7 +81,7 @@ PublishTopic="somewhere"
 [ApplicationSettings]
 DeviceNames   = ""
 Enable        = "true"
-Address       = "172.22.24.162"
+Address       = "172.17.0.1"
 Port          = "8086"
 User          = "admin"
 Password      = "admin"
