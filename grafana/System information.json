@@ -15,11 +15,11 @@
   "editable": true,
   "gnetId": null,
   "graphTooltip": 0,
-  "id": 1,
+  "id": 2,
   "links": [],
   "panels": [
     {
-      "datasource": null,
+      "datasource": "edgex",
       "fieldConfig": {
         "defaults": {
           "color": {
@@ -73,6 +73,7 @@
           "measurement": "readings",
           "orderByTime": "ASC",
           "policy": "default",
+          "queryType": "randomWalk",
           "refId": "A",
           "resultFormat": "time_series",
           "select": [
@@ -98,7 +99,7 @@
       "type": "stat"
     },
     {
-      "datasource": null,
+      "datasource": "edgex",
       "fieldConfig": {
         "defaults": {
           "color": {
@@ -152,6 +153,7 @@
           "measurement": "readings",
           "orderByTime": "ASC",
           "policy": "default",
+          "queryType": "randomWalk",
           "refId": "A",
           "resultFormat": "time_series",
           "select": [
@@ -177,7 +179,7 @@
       "type": "stat"
     },
     {
-      "datasource": null,
+      "datasource": "edgex",
       "fieldConfig": {
         "defaults": {
           "color": {
@@ -251,6 +253,7 @@
           "measurement": "readings",
           "orderByTime": "ASC",
           "policy": "default",
+          "queryType": "randomWalk",
           "refId": "A",
           "resultFormat": "time_series",
           "select": [
@@ -276,7 +279,7 @@
       "type": "timeseries"
     },
     {
-      "datasource": null,
+      "datasource": "edgex",
       "fieldConfig": {
         "defaults": {
           "color": {
@@ -330,6 +333,7 @@
           "measurement": "readings",
           "orderByTime": "ASC",
           "policy": "default",
+          "queryType": "randomWalk",
           "refId": "A",
           "resultFormat": "time_series",
           "select": [
@@ -355,7 +359,7 @@
       "type": "stat"
     },
     {
-      "datasource": null,
+      "datasource": "edgex",
       "fieldConfig": {
         "defaults": {
           "color": {
@@ -409,6 +413,7 @@
           "measurement": "readings",
           "orderByTime": "ASC",
           "policy": "default",
+          "queryType": "randomWalk",
           "refId": "A",
           "resultFormat": "time_series",
           "select": [
@@ -434,7 +439,7 @@
       "type": "stat"
     },
     {
-      "datasource": null,
+      "datasource": "edgex",
       "fieldConfig": {
         "defaults": {
           "color": {
@@ -508,6 +513,7 @@
           "measurement": "readings",
           "orderByTime": "ASC",
           "policy": "default",
+          "queryType": "randomWalk",
           "refId": "A",
           "resultFormat": "time_series",
           "select": [
@@ -533,7 +539,7 @@
       "type": "timeseries"
     },
     {
-      "datasource": null,
+      "datasource": "edgex",
       "fieldConfig": {
         "defaults": {
           "color": {
@@ -587,6 +593,7 @@
           "measurement": "readings",
           "orderByTime": "ASC",
           "policy": "default",
+          "queryType": "randomWalk",
           "refId": "A",
           "resultFormat": "time_series",
           "select": [
@@ -612,7 +619,7 @@
       "type": "stat"
     },
     {
-      "datasource": null,
+      "datasource": "edgex",
       "fieldConfig": {
         "defaults": {
           "color": {
@@ -666,6 +673,7 @@
           "measurement": "readings",
           "orderByTime": "ASC",
           "policy": "default",
+          "queryType": "randomWalk",
           "refId": "A",
           "resultFormat": "time_series",
           "select": [
@@ -691,7 +699,7 @@
       "type": "stat"
     },
     {
-      "datasource": null,
+      "datasource": "edgex",
       "fieldConfig": {
         "defaults": {
           "color": {
@@ -765,6 +773,7 @@
           "measurement": "readings",
           "orderByTime": "ASC",
           "policy": "default",
+          "queryType": "randomWalk",
           "refId": "A",
           "resultFormat": "time_series",
           "select": [
@@ -790,7 +799,7 @@
       "type": "timeseries"
     },
     {
-      "datasource": null,
+      "datasource": "edgex",
       "fieldConfig": {
         "defaults": {
           "color": {
@@ -844,6 +853,7 @@
           "measurement": "readings",
           "orderByTime": "ASC",
           "policy": "default",
+          "queryType": "randomWalk",
           "refId": "A",
           "resultFormat": "time_series",
           "select": [
@@ -869,7 +879,7 @@
       "type": "stat"
     },
     {
-      "datasource": null,
+      "datasource": "edgex",
       "fieldConfig": {
         "defaults": {
           "color": {
@@ -923,6 +933,7 @@
           "measurement": "readings",
           "orderByTime": "ASC",
           "policy": "default",
+          "queryType": "randomWalk",
           "refId": "A",
           "resultFormat": "time_series",
           "select": [
@@ -948,7 +959,7 @@
       "type": "stat"
     },
     {
-      "datasource": null,
+      "datasource": "edgex",
       "fieldConfig": {
         "defaults": {
           "color": {
@@ -1022,6 +1033,7 @@
           "measurement": "readings",
           "orderByTime": "ASC",
           "policy": "default",
+          "queryType": "randomWalk",
           "refId": "A",
           "resultFormat": "time_series",
           "select": [
@@ -1047,7 +1059,7 @@
       "type": "timeseries"
     },
     {
-      "datasource": null,
+      "datasource": "edgex",
       "fieldConfig": {
         "defaults": {
           "color": {
@@ -1101,6 +1113,7 @@
           "measurement": "readings",
           "orderByTime": "ASC",
           "policy": "default",
+          "queryType": "randomWalk",
           "refId": "A",
           "resultFormat": "time_series",
           "select": [
@@ -1126,7 +1139,7 @@
       "type": "stat"
     },
     {
-      "datasource": null,
+      "datasource": "edgex",
       "fieldConfig": {
         "defaults": {
           "color": {
@@ -1180,6 +1193,7 @@
           "measurement": "readings",
           "orderByTime": "ASC",
           "policy": "default",
+          "queryType": "randomWalk",
           "refId": "A",
           "resultFormat": "time_series",
           "select": [
@@ -1205,7 +1219,7 @@
       "type": "stat"
     },
     {
-      "datasource": null,
+      "datasource": "edgex",
       "fieldConfig": {
         "defaults": {
           "color": {
@@ -1280,6 +1294,7 @@
           "measurement": "readings",
           "orderByTime": "ASC",
           "policy": "default",
+          "queryType": "randomWalk",
           "refId": "A",
           "resultFormat": "time_series",
           "select": [
@@ -1305,7 +1320,7 @@
       "type": "timeseries"
     }
   ],
-  "refresh": "5s",
+  "refresh": "10s",
   "schemaVersion": 30,
   "style": "dark",
   "tags": [],
@@ -1313,12 +1328,12 @@
     "list": []
   },
   "time": {
-    "from": "now-1h",
+    "from": "now-5m",
     "to": "now"
   },
   "timepicker": {},
   "timezone": "",
   "title": "System information",
-  "uid": "-YA-YKOnz",
-  "version": 23
+  "uid": "iMn2u1Knz",
+  "version": 10
 }

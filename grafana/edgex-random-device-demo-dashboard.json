@@ -20,7 +20,7 @@
   "links": [],
   "panels": [
     {
-      "datasource": "InfluxDB",
+      "datasource": "edgex",
       "gridPos": {
         "h": 8,
         "w": 12,
@@ -81,7 +81,7 @@
       "type": "gauge"
     },
     {
-      "datasource": null,
+      "datasource": "edgex",
       "gridPos": {
         "h": 8,
         "w": 12,
@@ -142,7 +142,7 @@
       "type": "gauge"
     },
     {
-      "datasource": null,
+      "datasource": "edgex",
       "gridPos": {
         "h": 8,
         "w": 12,
@@ -204,7 +204,7 @@
     },
     {
       "columns": [],
-      "datasource": "InfluxDB",
+      "datasource": "edgex",
       "fontSize": "100%",
       "gridPos": {
         "h": 8,
