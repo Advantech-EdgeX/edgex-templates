@@ -15,7 +15,7 @@
   "editable": true,
   "gnetId": null,
   "graphTooltip": 0,
-  "id": 1,
+  "id": 3,
   "links": [],
   "panels": [
     {
@@ -105,7 +105,7 @@
       ],
       "timeFrom": null,
       "timeShift": null,
-      "title": "RSOC (%)",
+      "title": "RSOC",
       "transparent": true,
       "type": "bargauge"
     },
@@ -438,7 +438,7 @@
           ]
         }
       ],
-      "title": "Battery Temperature",
+      "title": "Temperature",
       "type": "stat"
     },
     {
@@ -604,7 +604,7 @@
           ]
         }
       ],
-      "title": "Battery Manufacturer Data",
+      "title": "Battery Manufacture Date",
       "type": "stat"
     },
     {
@@ -1427,6 +1427,6 @@
   "timepicker": {},
   "timezone": "",
   "title": "IPS-420S Battery",
-  "uid": "r_CrmZFnk",
-  "version": 58
+  "uid": "bY6tjW5nz",
+  "version": 2
 }
